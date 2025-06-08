@@ -1,33 +1,37 @@
-🎵 Mood Music Generator
-An AI-powered music generator that creates melodies based on your mood using MIDI and Gradio.
+# 🎵 Mood Music Generator
 
-🚀 Features
-🎼 Mood-Based Music Generation
-Select from moods like Happy, Sad, or Chill, and the app generates a unique melody just for you.
+**An AI-powered music generator that creates melodies based on your mood using MIDI and Gradio.**
 
-🎧 Real-Time Audio Playback
-Listen to your generated music instantly through a simple, interactive Gradio interface.
+---
 
-💾 Downloadable MIDI Output
-Save the generated tunes as .midi files for remixing, editing, or personal use.
+## 🚀 Features
 
-🖥️ One-Click Web Interface
-No coding required — just launch and interact via your browser.
+- 🎼 **Mood-Based Music Generation**  
+  Select from moods like **Happy**, **Sad**, or **Chill**, and the app generates a unique melody just for you.
 
-☁️ AWS EC2 Deployment Ready
-The app is fully configured to run on AWS EC2 Free Tier (Ubuntu 22.04, t2.micro), making it scalable and accessible from anywhere.
+- 🎧 **Real-Time Audio Playback**  
+  Listen to your generated music instantly through a simple, interactive **Gradio** interface.
 
-🧠 How It Works
-Launch the app on your local machine or EC2 instance
+- 💾 **Downloadable MIDI Output**  
+  Save the generated tunes as `.midi` files for remixing, editing, or personal use.
 
-Choose a mood using the Gradio UI
+- 🖥 **One-Click Web Interface**  
+  No coding required — just launch and interact via your browser.
 
-MIDI music is generated using Python and MIDIUtil
+- ☁ **AWS EC2 Deployment Ready**  
+  Fully configured to run on **AWS EC2 Free Tier** (Ubuntu 22.04, t2.micro), making it scalable and accessible from anywhere.
 
-Timidity converts it into audio for instant playback
+---
 
-Download the track if you like it 🎶
+## 🧠 How It Works
 
+1. Launch the app on your local machine or AWS EC2 instance.  
+2. Choose a mood using the Gradio UI.  
+3. MIDI music is generated using Python and **MIDIUtil**.  
+4. **Timidity** converts the MIDI into audio for instant playback.  
+5. Download the track if you like it! 🎶
+
+---
 
 ## 🛠️ Tech Stack
 
