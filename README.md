@@ -41,4 +41,10 @@
 - Timidity (for audio conversion)
 - AWS EC2
 
+ ---
+
+## Project Skeleton
+![image](https://github.com/user-attachments/assets/52ee11f3-55b8-46a3-8167-ef2512e0f6f3)
+
+
 
